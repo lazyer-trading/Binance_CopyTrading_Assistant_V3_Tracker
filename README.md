@@ -4,9 +4,13 @@
 ## Step 1
 账号注册：
 https://www.funsound.cn/tracker
+软件下载：
+https://github.com/lazyer-trading/Binance_CopyTrading_Assistant_V3_Tracker/releases
 
 ## Step 2
 运行软件，支持windows/linux, 建议服务器长期运行
+> linux 后台运行
+> nohup ./server > run.log 2>&1 &
 ![alt text](img/img1.png)
 
 ## Step 3
