@@ -1,11 +1,14 @@
 # Binance_CopyTrading_Assistant_V3_Tracker
+# 币安交易信号追踪器
+
 后台追踪，网页后台管理
 
 XT交易所注册链接（高额返佣奖励）：https://www.xt.com/zh-CN/accounts/register?ref=RJKFGL
 
 ## Step 1
 账号注册：
-https://www.funsound.cn/tracker
+~~https://www.funsound.cn/tracker~~
+无需登录，免费开放
 
 软件下载：
 https://github.com/lazyer-trading/Binance_CopyTrading_Assistant_V3_Tracker/releases
