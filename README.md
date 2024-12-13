@@ -19,6 +19,7 @@ https://github.com/lazyer-trading/Binance_CopyTrading_Assistant_V3_Tracker/relea
 [windows]
 
 ![alt text](img/img1.png)
+![image](https://github.com/user-attachments/assets/353821e7-9a19-463e-9391-58a2293df7d2)
 
 [linux]
 
