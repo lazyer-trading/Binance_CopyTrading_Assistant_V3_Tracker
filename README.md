@@ -21,7 +21,9 @@ https://github.com/lazyer-trading/Binance_CopyTrading_Assistant_V3_Tracker/relea
 ![alt text](img/img1.png)
 
 [linux]
+
 后台运行： nohup ./tracker_server > run.log 2>&1 &
+
 关闭后台: ps -ef | grep ./tracker_server | awk '{print $2}' | xargs kill -9
 
 ## Step 3
