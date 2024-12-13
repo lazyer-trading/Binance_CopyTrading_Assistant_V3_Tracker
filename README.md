@@ -24,7 +24,7 @@ https://github.com/lazyer-trading/Binance_CopyTrading_Assistant_V3_Tracker/relea
 打开后台管理
 > 本地管理：http://localhost:7777
 
-> 远程管理：http://{server_ip}:7777
+> 远程管理：http://{server_ip}:7777 (可以部署在服务器)
 
 ![alt text](img/img2.png)
 
