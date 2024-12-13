@@ -15,16 +15,20 @@ https://github.com/lazyer-trading/Binance_CopyTrading_Assistant_V3_Tracker/relea
 
 ## Step 2
 运行软件，支持windows/linux, 建议服务器长期运行
-> linux 后台运行
-> nohup ./server > run.log 2>&1 &
+
+[windows]
 
 ![alt text](img/img1.png)
+
+[linux]
+后台运行： nohup ./tracker_server > run.log 2>&1 &
+关闭后台: ps -ef | grep ./tracker_server | awk '{print $2}' | xargs kill -9
 
 ## Step 3
 打开后台管理
 > 本地管理：http://localhost:7777
 
-> 远程管理：http://{server_ip}:7777 (可以部署在服务器)
+> 远程管理：http://{server_ip}:7777 (可以部署在linux服务器)
 
 ![alt text](img/img2.png)
 
